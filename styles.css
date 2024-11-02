@@ -1,0 +1,24 @@
+    .navbar ul{
+        list-style-type: none;
+        background-color: blueviolet;
+        padding: 0px;
+        margin-top: 0px;
+    }
+    body{
+    margin: 0;
+    padding: 0;
+    background-color: #CCC; 
+    font-family: Arial;
+    }
+    h1{
+        text-align: center;
+        color: rgb(228, 14, 14);
+        }
+    h2{
+        text-align: center;
+        color: rgb(228, 14, 14);
+        width: 800px;
+        margin: auto;
+    }
+
+    
