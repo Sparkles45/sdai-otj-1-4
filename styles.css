@@ -1,18 +1,26 @@
     .navbar ul{
         list-style-type: none;
-        background-color: blueviolet;
+        background-color: #ffe6ff;
         padding: 0px;
         margin-top: 0px;
+    }
+    .navbar a{
+        color:  #cc00cc;
+        text-decoration: none;
+        padding: 15px;
+        display: inline-block;
+        text-align: center;
     }
     body{
     margin: 0;
     padding: 0;
-    background-color: #CCC; 
+    background-color: #e6ffee; 
     font-family: Arial;
     }
     h1{
         text-align: center;
         color: rgb(228, 14, 14);
+        font-size: 36px;
         }
     h2{
         text-align: center;
