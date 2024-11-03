@@ -41,3 +41,56 @@ main {
     justify-content: center;
     gap: 20px;
 }
+h2 {
+        color: red;
+        font-family: sans-serif;
+        font-size: 24px; 
+        font-weight: bold; 
+        text-align: center; 
+        margin: 20px;
+        width: 800px; 
+    }
+    .about-section {
+        color: rgba(40, 33, 186, 0.789);
+    }
+    h3 {
+        color: #ff3385; 
+        font-size: 25px; 
+        font-family: 'Sans-serif'; 
+        font-weight: bold;
+        text-align: center;
+    } 
+    h4 {
+        color: #b21a7d; 
+        font-size: 20px; 
+        font-family: 'Sans-serif'; 
+        font-weight: bold;
+        text-align: justify;
+        }
+        p {
+            color: blue; 
+            line-height: 1.6; 
+            margin-bottom: 20px; 
+            font-family: sans-serif; 
+        }
+        address {
+            color: blue; 
+            font-weight: bold; 
+            text-align: center; 
+            display: block; 
+            font-family: Arial, sans-serif;
+            font-size: 15px; 
+        }
+        .hours ul {
+            list-style: none; 
+            padding: 0; 
+        }
+        .hours {
+            color: blue;
+            font-size: 18px; 
+            font-weight: bold; 
+            text-align: center;  
+            font-family: sans serif;
+        }
+
+
